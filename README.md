@@ -23,3 +23,5 @@ gösterirek girilen konulardan herhangi
 birini silme işlemini gerçekleştirerek anlık
 olarak diğer guide algoritma güncelleme
 işlemi gerçekleştirilmiştir.
+
+![Ekran Alıntısı333](https://user-images.githubusercontent.com/65635963/149897229-71d2e119-4628-43fa-a703-1650cbcab62b.PNG)
