@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ5Wme5ui3yhQRC3PCfenO_kk",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ5Wme5ui3yhQRC3PCfenO_kk",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 41.0322042,
+               "lng" : 29.0317735
+            },
+            "southwest" : {
+               "lat" : 41.0322042,
+               "lng" : 29.0317735
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "İcadiye, İcadiye Hamamı Sk. No:23, 34674 Üsküdar/İstanbul, Turkey",
+               "end_location" : {
+                  "lat" : 41.0322042,
+                  "lng" : 29.0317735
+               },
+               "start_address" : "İcadiye, İcadiye Hamamı Sk. No:23, 34674 Üsküdar/İstanbul, Turkey",
+               "start_location" : {
+                  "lat" : 41.0322042,
+                  "lng" : 29.0317735
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 41.0322042,
+                        "lng" : 29.0317735
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eİcadiye Hamamı Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gbmyFqgepD"
+                     },
+                     "start_location" : {
+                        "lat" : 41.0322042,
+                        "lng" : 29.0317735
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "gbmyFqgepD"
+         },
+         "summary" : "İcadiye Hamamı Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

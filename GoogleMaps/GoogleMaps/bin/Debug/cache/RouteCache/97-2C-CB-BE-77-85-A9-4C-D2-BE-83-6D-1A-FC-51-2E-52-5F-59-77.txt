@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJSbbT_6_ZyhQRmx8NozivbZ8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJSbbT_6_ZyhQRmx8NozivbZ8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.89813789999999,
+               "lng" : 29.3597379
+            },
+            "southwest" : {
+               "lat" : 40.89813789999999,
+               "lng" : 29.3597379
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Orhanlı Mh, Barınak Sk. No:4, 34956 Tuzla/İstanbul, Turkey",
+               "end_location" : {
+                  "lat" : 40.89813789999999,
+                  "lng" : 29.3597379
+               },
+               "start_address" : "Orhanlı Mh, Barınak Sk. No:4, 34956 Tuzla/İstanbul, Turkey",
+               "start_location" : {
+                  "lat" : 40.89813789999999,
+                  "lng" : 29.3597379
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.89813789999999,
+                        "lng" : 29.3597379
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eBarınak Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "k|rxFkierD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.89813789999999,
+                        "lng" : 29.3597379
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "k|rxFkierD"
+         },
+         "summary" : "Barınak Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

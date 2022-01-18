@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "Ej9Hw7x6ZWxsZXIsIFllbmkgQmHEn2RhdCBDZC4gTm86NjM1LCA0MTQwMCBHZWJ6ZS9Lb2NhZWxpLCBUdXJrZXkiGxIZChQKEgkxZYKXkiDLFBHO-CWL9K3tSRD7BA",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "Ej9Hw7x6ZWxsZXIsIFllbmkgQmHEn2RhdCBDZC4gTm86NjM1LCA0MTQwMCBHZWJ6ZS9Lb2NhZWxpLCBUdXJrZXkiGxIZChQKEgkxZYKXkiDLFBHO-CWL9K3tSRD7BA",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.8024789,
+               "lng" : 29.4398085
+            },
+            "southwest" : {
+               "lat" : 40.8024789,
+               "lng" : 29.4398085
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Güzeller, Yeni Bağdat Cd. No:635, 41400 Gebze/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.8024789,
+                  "lng" : 29.4398085
+               },
+               "start_address" : "Güzeller, Yeni Bağdat Cd. No:635, 41400 Gebze/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.8024789,
+                  "lng" : 29.4398085
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.8024789,
+                        "lng" : 29.4398085
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eYeni Bağdat Cd.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "of`xFy}trD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8024789,
+                        "lng" : 29.4398085
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "of`xFy}trD"
+         },
+         "summary" : "Yeni Bağdat Cd.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

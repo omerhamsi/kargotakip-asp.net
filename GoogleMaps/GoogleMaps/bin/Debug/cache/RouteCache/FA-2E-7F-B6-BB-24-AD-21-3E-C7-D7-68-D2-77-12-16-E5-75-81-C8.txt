@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJF76KoQBHyxQRi8v3UOT1zQg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJF76KoQBHyxQRi8v3UOT1zQg",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.75621570000001,
+               "lng" : 29.830896
+            },
+            "southwest" : {
+               "lat" : 40.75621570000001,
+               "lng" : 29.830896
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Çenedağ, Hafız Hasan Yılmaz Cd. No:55, 41900 Derince/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.75621570000001,
+                  "lng" : 29.830896
+               },
+               "start_address" : "Çenedağ, Hafız Hasan Yılmaz Cd. No:55, 41900 Derince/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.75621570000001,
+                  "lng" : 29.830896
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.75621570000001,
+                        "lng" : 29.830896
+                     },
+                     "html_instructions" : "Head",
+                     "polyline" : {
+                        "points" : "kewwFcjauD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.75621570000001,
+                        "lng" : 29.830896
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "kewwFcjauD"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,12 @@
+C:\Users\TOSHIBA\source\repos\clientside\clientside\bin\Debug\clientside.exe.config
+C:\Users\TOSHIBA\source\repos\clientside\clientside\bin\Debug\clientside.exe
+C:\Users\TOSHIBA\source\repos\clientside\clientside\bin\Debug\clientside.pdb
+C:\Users\TOSHIBA\source\repos\clientside\clientside\obj\Debug\clientside.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\clientside\clientside\obj\Debug\clientside.Form1.resources
+C:\Users\TOSHIBA\source\repos\clientside\clientside\obj\Debug\clientside.Properties.Resources.resources
+C:\Users\TOSHIBA\source\repos\clientside\clientside\obj\Debug\clientside.csproj.GenerateResource.cache
+C:\Users\TOSHIBA\source\repos\clientside\clientside\obj\Debug\clientside.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\clientside\clientside\obj\Debug\clientside.exe
+C:\Users\TOSHIBA\source\repos\clientside\clientside\obj\Debug\clientside.pdb
+C:\Users\TOSHIBA\source\repos\clientside\clientside\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TOSHIBA\source\repos\clientside\clientside\bin\Debug\Newtonsoft.Json.xml

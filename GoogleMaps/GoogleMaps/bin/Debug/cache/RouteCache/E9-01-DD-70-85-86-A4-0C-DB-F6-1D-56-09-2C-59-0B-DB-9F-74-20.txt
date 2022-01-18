@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJn2ydUo2tzBQRnLv3-mgjDCU",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJn2ydUo2tzBQRnLv3-mgjDCU",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7423642,
+               "lng" : 30.3329107
+            },
+            "southwest" : {
+               "lat" : 40.7423642,
+               "lng" : 30.3329107
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Kemalpaşa, Sakarya Ünv., 54050 Serdivan/Sakarya, Turkey",
+               "end_location" : {
+                  "lat" : 40.7423642,
+                  "lng" : 30.3329107
+               },
+               "start_address" : "Kemalpaşa, Sakarya Ünv., 54050 Serdivan/Sakarya, Turkey",
+               "start_location" : {
+                  "lat" : 40.7423642,
+                  "lng" : 30.3329107
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.7423642,
+                        "lng" : 30.3329107
+                     },
+                     "html_instructions" : "Head",
+                     "polyline" : {
+                        "points" : "wntwFukcxD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7423642,
+                        "lng" : 30.3329107
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "wntwFukcxD"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

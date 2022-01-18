@@ -1,0 +1,203 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJb_onk4hPyxQR7kGAQ91v5wQ",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJww_EChxMyxQRVOi310X-638",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.85640220000001,
+               "lng" : 29.94153349999999
+            },
+            "southwest" : {
+               "lat" : 40.7654033,
+               "lng" : 29.8814906
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "15.1 km",
+                  "value" : 15129
+               },
+               "duration" : {
+                  "text" : "21 mins",
+                  "value" : 1264
+               },
+               "end_address" : "Kaşıkçı, O-7, 41900 Derince/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.8554609,
+                  "lng" : 29.8814906
+               },
+               "start_address" : "Gazanfer Bilge Sk., İzmit/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7654033,
+                  "lng" : 29.9408141
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 308
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 65
+                     },
+                     "end_location" : {
+                        "lat" : 40.7681345,
+                        "lng" : 29.9403936
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eGazanfer Bilge Sk.\u003c/b\u003e toward \u003cb\u003eAtatürk Blv.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "w~xwFayvuDi@NMDc@RGBaAHqAFoABw@EI?eBNq@D"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7654033,
+                        "lng" : 29.9408141
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.5 km",
+                        "value" : 2524
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 281
+                     },
+                     "end_location" : {
+                        "lat" : 40.7841729,
+                        "lng" : 29.9293716
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eGazanfer Bilge Blv.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "yoywFmvvuDi@Bq@C]Fa@Hy@LMBKBI@M?UCMEOGOIA?MIWOGC[KEASEc@COAI?_@Ac@@Y@_AZg@Ki@HA?{ARMBa@FgANeANc@HqAPo@LW@U@M?SAQCOEe@O{@a@MGs@]SI[QQSY_@KMWa@Ya@OMQOYKSGQECAYASAS?S@K@IBODMFuAh@]LOHSRA@SRQZIXGf@CdA?|@@jB?`BJpB?HBb@BRLb@HVJ^?NHlADf@?FJvA@P?R?XEb@GRITENIJW\\KHOJ]VeCrBA??@A?A@A@A??@A??@A?A@A@A@A@A@A??@A?A@A@A@A??@A?A@A@A@A??@A??@A?A@A@A@A@A@A??@A??@A?A@A@?@A?A@A@A@A??@A@A??@A??@A??@A@A??@A??@A??@A@A??@A@A@A@?@A?A@?@A?A@?@A@A@A@GFILMTKRu@dBi@lA_@z@IPGHCDKPGFA@ABKJKJIHSPOJUN_@P_@LUFaBl@}@j@a@^i@f@m@|@y@dA_@f@A?Y^s@f@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7681345,
+                        "lng" : 29.9403936
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.3 km",
+                        "value" : 3327
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 205
+                     },
+                     "end_location" : {
+                        "lat" : 40.8104465,
+                        "lng" : 29.9384006
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eKocaeli Ünv. Ümittepe Kampüsü Yolu\u003c/b\u003e/\u003cwbr/\u003e\u003cb\u003eProf. Baki Komşuoğlu Blv.\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "at|wFqqtuDA?A?A?A?A?A@A??@A?A@A@A@?@A??@?@q@BU@K?WAa@Ce@EMAUCOASCSC_@AgAEc@Cc@Au@Cs@Ak@DE?i@Je@Re@ZCB}@x@]Za@XULMFi@P_ARSBs@LSBYFuAZe@Le@P]R_Aj@WJc@Hc@@A?a@AGA[CKAUGUIKGICQKUQy@q@YYe@i@[c@IM{@eBc@q@]c@y@u@UOWOc@KSGUEOEIAI?IAIAI?}@@yAB_@Hc@N_@To@j@e@b@C@ONSNIDMFWLQFg@FYDK?E?I@G@gAMYIOG_@S{A{@IEe@c@IMIMQ_@EM[y@sAcDO_@OYg@s@q@y@iAaASQIEoA{@WQUO_@UYScC{A_BkA[Sa@Wo@q@q@y@i@eAACWe@Yk@Q]U_@ACY_@GISSYYAA][{@m@WKiAe@oCo@UGMCoCw@sAa@cA[MEkAYICaBYwBSy@K"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7841729,
+                        "lng" : 29.9293716
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "7.5 km",
+                        "value" : 7471
+                     },
+                     "duration" : {
+                        "text" : "9 mins",
+                        "value" : 530
+                     },
+                     "end_location" : {
+                        "lat" : 40.84747720000001,
+                        "lng" : 29.8828594
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eKocaeli Çayırova Yolu\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ixaxF_jvuDy@E{CG]AsCGyBI}BOsAIy@AQA]AeB?iC?O?S@k@@s@De@Fq@LgAPkDn@uDr@YF_G~@m@Ra@Nc@PQLUP_@\\]b@]j@Ul@Od@Op@Gh@EZIlBAp@AFMvFGrAEl@AX[xD_@nDUvBgBdNMxACLkA~IIj@?@YrB_@`CS~@S~@Wz@Wp@Qd@A@ABm@`Bi@~AC?A@A@A@A?A@?@A@AB?@A@?@?BA@?@?B?@?B@BKRQXa@z@g@r@i@b@KHIFw@`@aA^SFMHe@TiAx@s@h@SLc@`@KNS^Q^OZEFUd@ILIXCHIR]j@[\\WXGLEJEPCV?R?J@f@@l@@b@?P?NANCNCHEJEDCBKFMFSB]?WBA?A?SBMDEDEDEDELGNAHCLAN?V?t@AXCRADCHCFEFQTMNSVCFEJCHCLCL?FAJA\\AVCLCNGNCHC@GHQLWJIBOBQBUAOCMAQAm@Ka@EUA[?O@QFSH{@`@k@^[JE@C@I@I@K?KAMAOEKGMKMKMOMKIEEAGAI@EBIFA?EFOZKRMPIHGDGBG@E?G?EAIECAQOGGSOIEA?EAE?G@E@CDA@CBAHADCPGVAHELA@CFGFIHCBa@XIHCFEJENEPCJADGTGLITm@`AOP[\\CBUVYPGBQFO@C@_@BKBEBGDEDA@ADCJAJAJ?@?H@HDNLZJNJLXZPPBB`@VVN@@HHDD@F@D@B?@?DADADADCDA@C@A@GBK@E@G?A?YCGAc@E_@Gg@AU?M?GBG@CBABCBADABAF?HBVDX@P?@@L?JAXEh@CRET?BCJELEJABKNSTo@v@MN[b@UZA@Y\\GFo@h@CBKJMRA@KPITQ`@Y|@q@zBUt@EJMd@?BMp@G^AFAPC\\Ab@?H?X@R@l@H`B@R?X?XAT?@Ed@UjCIt@AHI`@ABI`@ADCHINOZABg@t@}@`B[j@Wb@c@t@Ub@M\\M^Qh@UbAOf@ELKNIJMFMFYH]FIDGDGFC@CFCFCFAH?@AN?H@JBNN|@D^@P?LADAPCTADIj@CNI\\Kj@UdA_@hBQ`AEVADEd@Et@Ch@Cn@?@EZANCPQp@Kd@IXGb@AFE`@Cn@?p@Bz@Bj@?B@`@?H?PCRCVEVABELOh@}@rBOZQ`@SXKJMFKDM@YAQ?Q?gAAWDIDIFEDINQf@ABUr@_AbDc@xAMZABS^A@[b@k@n@GF[^A@YZOPQVW^OZCDOf@IXCVAR@VBf@?DDf@Fr@Ft@"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8104465,
+                        "lng" : 29.9384006
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 km",
+                        "value" : 1097
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 133
+                     },
+                     "end_location" : {
+                        "lat" : 40.8555351,
+                        "lng" : 29.8852921
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "w_ixF{nkuD{AOCAk@IYIUIGAKAm@Aq@AG?}@Ew@GeAKo@O{@WMGe@QYSYU_@UWKOIKKOSMWKQCMGMEKKKIIKGKKGGAAGIGKGOIQGM?AEIEGCCEGECGCKAI?K@KFMFMDGBGBI@K?M?KAKCIEAAIEGEEGEKGKEOGUOiAIs@CWAKCICGEICEGCAAA?GAE?E?C@C@GDKLMNININELGPGTGPENINMNA@QL]RQJKLIJKFGFIDIBI@I@KAMAMAC@G?A?"
+                     },
+                     "start_location" : {
+                        "lat" : 40.84747720000001,
+                        "lng" : 29.8828594
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 402
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 50
+                     },
+                     "end_location" : {
+                        "lat" : 40.8554609,
+                        "lng" : 29.8814906
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "crjxFa~kuDC@EBOPSh@Yr@k@lAINIPM^KZEVCb@?`@?X?^Fj@@RFZFf@@HFRFPLPHHFBHBHBD@F@JDJBNJJLJPHXBL"
+                     },
+                     "start_location" : {
+                        "lat" : 40.8555351,
+                        "lng" : 29.8852921
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "w~xwFayvuDcBl@sCPoABw@EoBN{AHq@C]F{AVq@Hc@I_@Qo@]a@Mw@I}AAY@_AZg@Ki@H}ARo@JcGz@gANc@@e@Eu@UqCqAm@e@e@m@q@cAa@]cA[m@Cg@@s@RsBv@c@\\UT[t@Gf@CdA@hD?`BJpBBl@Pv@Tv@NlCLhB?l@Mv@Od@a@h@[TeDjCIFQNSNe@`@QRIJo@bAiC`G_@h@[\\cAv@_A^wBt@}@j@a@^i@f@m@|@yAlB[^w@f@G@GDCBq@F{ACyAMoCOqDKq@Di@Je@Ri@^{AtAw@f@w@X{Ch@oBb@kA^}A~@{@ToAA}@M}@a@oAcA_AcAe@q@_BwC]c@y@u@m@_@}A_@g@EgA@yAB_@HcAd@uAnAq@f@e@Ty@Nu@FoAKi@Q{BoAo@i@S[Wm@oCwGyAmB}AsAgCcBy@i@cC{A_BkA}@k@aBkB}A{CcAaBw@y@yAiAaBq@cIsBqF}AkB]qD_@gKWeKe@_HCcCHkIvAoEz@_G~@m@ReA`@g@^}@`As@xA_@vAMdA[~KM`C]rEu@fHgBdNMxAoAlJIl@y@tFg@~BcAtC}AdEMNCR@F]l@a@z@g@r@u@l@aAh@uAf@s@^}BbBw@n@_@n@}@hBa@dA]j@s@v@MXIh@BtB?tAGXKPOJa@Jy@Ba@HKJUl@E\\?lAK|@i@t@W^ITIn@KrAWd@s@\\a@Fe@EoBUq@Aa@HoAj@gAj@]FWA]GYS[[WQMCODKFo@hAQNODM?OGq@i@WGSJKd@Qp@Y\\k@b@IRQr@Ob@w@vAeAjAa@TQFs@F_@RI^?`@Rj@V\\j@l@d@Zh@`@DREVKJa@FgAKgAIc@?SHIPAPHp@Bl@QlBOh@qA`BaApAuArAg@r@gBpFi@jBYjBEdBNvDAjAg@pFWlA_@x@yCfFgAvBeAtDQ\\WRoA^WVIZBt@T|A@^Ir@c@dCmAhGQjCK|Ak@bCIj@IpAF|CApAQ`AmA|Ca@|@_@d@YLkA?gAAa@JOL[v@{BtHe@`AkBzB}@fAg@z@Sl@Mp@?j@PhCFt@{AOo@KcAWeDI}BSkBg@s@Ys@i@w@a@[U]k@O_@MYUUa@]OUQa@Sa@WSUAWHk@TU@YAa@Q[e@Me@Y}BMu@IOIEUA[Vg@|@]hAW^SNo@^UXg@Xm@?[?IDc@z@yAbDYz@Iz@?z@FjAR`BNd@VZ`@LRFZNV^Lf@"
+         },
+         "summary" : "Kocaeli Çayırova Yolu",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

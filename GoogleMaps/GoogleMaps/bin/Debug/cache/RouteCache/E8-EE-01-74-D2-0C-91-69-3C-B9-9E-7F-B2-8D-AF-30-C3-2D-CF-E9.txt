@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJs9RYSMAuyxQRVN-5C3jC2lY",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJs9RYSMAuyxQRVN-5C3jC2lY",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.9318794,
+               "lng" : 29.5324928
+            },
+            "southwest" : {
+               "lat" : 40.9318794,
+               "lng" : 29.5324928
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Cumaköy, Unnamed Road, 41400 Gebze/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.9318794,
+                  "lng" : 29.5324928
+               },
+               "start_address" : "Cumaköy, Unnamed Road, 41400 Gebze/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.9318794,
+                  "lng" : 29.5324928
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.9318794,
+                        "lng" : 29.5324928
+                     },
+                     "html_instructions" : "Head",
+                     "polyline" : {
+                        "points" : "goyxFaagsD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.9318794,
+                        "lng" : 29.5324928
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "goyxFaagsD"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJOSH0bzXGyhQRnkxtqZSGmD8",
+         "types" : [ "route" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJOSH0bzXGyhQRnkxtqZSGmD8",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.9815492,
+               "lng" : 29.09478489999999
+            },
+            "southwest" : {
+               "lat" : 40.9815492,
+               "lng" : 29.09478489999999
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Küçükbakkalköy, Kozyatağı O2 Bağlantısı, Ataşehir/İstanbul, Turkey",
+               "end_location" : {
+                  "lat" : 40.9815492,
+                  "lng" : 29.09478489999999
+               },
+               "start_address" : "Küçükbakkalköy, Kozyatağı O2 Bağlantısı, Ataşehir/İstanbul, Turkey",
+               "start_location" : {
+                  "lat" : 40.9815492,
+                  "lng" : 29.09478489999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.9815492,
+                        "lng" : 29.09478489999999
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eKozyatağı O2 Bağlantısı\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "uecyFkqqpD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.9815492,
+                        "lng" : 29.09478489999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "uecyFkqqpD"
+         },
+         "summary" : "Kozyatağı O2 Bağlantısı",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

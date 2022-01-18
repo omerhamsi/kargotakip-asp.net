@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "google_cloud_api", "google_cloud_api\google_cloud_api.csproj", "{32634207-89F8-4B65-9730-FA3D46A1C243}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32634207-89F8-4B65-9730-FA3D46A1C243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32634207-89F8-4B65-9730-FA3D46A1C243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32634207-89F8-4B65-9730-FA3D46A1C243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32634207-89F8-4B65-9730-FA3D46A1C243}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C05B61C-8F35-4F02-B25C-77BEEEA6E27D}
+	EndGlobalSection
+EndGlobal

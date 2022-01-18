@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJD2HfPwFHyxQRnoUtZABJFU8",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJD2HfPwFHyxQRnoUtZABJFU8",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 40.7533081,
+               "lng" : 29.8308104
+            },
+            "southwest" : {
+               "lat" : 40.7533081,
+               "lng" : 29.8308104
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Deniz, Kanarya Sk. No:13, 41900 Derince/Kocaeli, Turkey",
+               "end_location" : {
+                  "lat" : 40.7533081,
+                  "lng" : 29.8308104
+               },
+               "start_address" : "Deniz, Kanarya Sk. No:13, 41900 Derince/Kocaeli, Turkey",
+               "start_location" : {
+                  "lat" : 40.7533081,
+                  "lng" : 29.8308104
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 40.7533081,
+                        "lng" : 29.8308104
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eKanarya Sk.\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "esvwFqiauD"
+                     },
+                     "start_location" : {
+                        "lat" : 40.7533081,
+                        "lng" : 29.8308104
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "esvwFqiauD"
+         },
+         "summary" : "Kanarya Sk.",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

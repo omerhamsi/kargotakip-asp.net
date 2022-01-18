@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJTbjPmI_FADsRRSDTaIANr5c",
+         "types" : [ "establishment", "point_of_interest", "primary_school", "school" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJTbjPmI_FADsRRSDTaIANr5c",
+         "types" : [ "establishment", "point_of_interest", "primary_school", "school" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 9.9251933,
+               "lng" : 78.11979780000001
+            },
+            "southwest" : {
+               "lat" : 9.9251933,
+               "lng" : 78.11979780000001
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "Chinnaurseri, Rail Marutham Nagar, Simmakkal, Madurai Main, Madurai, Tamil Nadu 625001, India",
+               "end_location" : {
+                  "lat" : 9.9251933,
+                  "lng" : 78.11979780000001
+               },
+               "start_address" : "Chinnaurseri, Rail Marutham Nagar, Simmakkal, Madurai Main, Madurai, Tamil Nadu 625001, India",
+               "start_location" : {
+                  "lat" : 9.9251933,
+                  "lng" : 78.11979780000001
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 9.9251933,
+                        "lng" : 78.11979780000001
+                     },
+                     "html_instructions" : "Head on \u003cb\u003eNH85\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "moq{@wwx{M"
+                     },
+                     "start_location" : {
+                        "lat" : 9.9251933,
+                        "lng" : 78.11979780000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "moq{@wwx{M"
+         },
+         "summary" : "NH85",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}
